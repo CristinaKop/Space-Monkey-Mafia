@@ -1,4 +1,3 @@
-Hey Cris Cop heres an edit
 #define ANALYSER    0
 #define GETTOSEARCH 1
 #define INITSEARCH  2
